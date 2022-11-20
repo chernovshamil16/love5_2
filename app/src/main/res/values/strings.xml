@@ -3,4 +3,6 @@
     <string name="secondname">secondname</string>
     <string name="firstname">firstname</string>
     <string name="add">add</string>
+    <string name="result">result</string>
+    <string name="percent">percent</string>
 </resources>
