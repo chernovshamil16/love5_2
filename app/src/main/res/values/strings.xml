@@ -5,4 +5,15 @@
     <string name="add">add</string>
     <string name="result">result</string>
     <string name="percent">percent</string>
+    <string name="first_name">first_name</string>
+    <string name="percenta">percent</string>
+    <string name="good_choice">good_choice</string>
+    <string name="second_name">second_name</string>
+    <string name="again">again</string>
+    <string name="resultt">result</string>
+    <string name="you">You</string>
+    <string name="first_namew">First Name</string>
+    <string name="love_calculator">Love Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="me">Me</string>
 </resources>

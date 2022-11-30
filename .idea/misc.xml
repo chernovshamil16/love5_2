@@ -3,10 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.163" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/drawable/corners.xml" value="0.163" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.163" />
         <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/layout/fragment_boarding.xml" value="0.253125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/layout/fragment_love.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/layout/fragment_main.xml" value="0.253125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/layout/fragment_main1.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/layout/fragmentlove.xml" value="0.253125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/love5_2/app/src/main/res/layout/itemboarding.xml" value="0.253125" />
       </map>
     </option>
   </component>
